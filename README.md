@@ -5,14 +5,10 @@
 </picture>
 
 
-# Lil bit about me
-- 👋 Hi, I’m @ytx-yu or Chloe if you know me
-- 👀 I’m interested in improving my skills and learning more abt coding in general, I'm just an intern :')
-- 🌱 I’m currently learning how to set up a github pages...any advice is welcome!
-- 💞️ I’m looking to collaborate on on any fun projects! :D
-- 📫 How to reach me : Of course my contact info. <strong> IG: ytxyun </strong> or <strong> Discord: _tsuha </strong>
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: obsessed with kpop, I really, really love aespa haha. Big fan of wave to earth as well
+# About me
+- 👋 Hi, I’m Chloe if you know me
+- 📫 How to reach me : <strong> IG: ytxyun </strong> or <strong> Discord: _tsuha </strong>
+
 
 
 <details open>
